@@ -1,0 +1,17 @@
+[
+  { "siteName": "spreadEx", "price": 1000, "freebet": true },
+  { "siteName": "tipwin", "price": 1600, "freebet": false },
+  { "siteName": "bet365", "price": 1000, "freebet": true },
+  { "siteName": "888sport", "price": 500, "freebet": true },
+  { "siteName": "bet25", "price": 500, "freebet": true },
+  { "siteName": "nordicbet", "price": 500, "freebet": true },
+  { "siteName": "betsson", "price": 500, "freebet": true },
+  { "siteName": "vBet", "price": 500, "freebet": true },
+  { "siteName": "expekt", "price": 1000, "freebet": true },
+  { "siteName": "Cashpoint", "price": 500, "freebet": true },
+  { "siteName": "Unibet", "price": 2000, "freebet": true },
+  { "siteName": "Leo Vegas", "price": 1000, "freebet": true },
+  { "siteName": "Betina", "price": 500, "freebet": true },
+  { "siteName": "CampoBet", "price": 500, "freebet": true },
+  { "siteName": "comeone", "price": 1000, "freebet": true }
+]
